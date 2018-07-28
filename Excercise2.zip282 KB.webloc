@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://fso-lms4-mortal-assets.s3.amazonaws.com/141170/20187/4e134350-952e-4bca-9485-e7419d6ff373-e72795bd-e139-4f0d-ad81-eff32fc3204b/Excercise2.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20180728T033841Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Credential=AKIAI4QJ7YJDQ7JYMBXQ%2F20180728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=1c95a88e5de2f6fe6c8a17e28c9d556ac62ba0001b910d62b1fc7c034bd8e9dd</string>
+</dict>
+</plist>
